@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/library/specific/footprints.pretty")(options "")(descr ""))
+  (lib (name "MAX6675ISA")(type "KiCad")(uri "${KIPRJMOD}/library/specific/footprints/MAX6675ISA.pretty")(options "")(descr ""))
+)

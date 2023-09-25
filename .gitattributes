@@ -1,0 +1,9 @@
+* text=auto
+* text eol=lf
+*.pdf binary
+*.kicad_sym text=auto
+*.kicad_mod text=auto
+*.step text=auto
+*.STEP text=auto
+*.wrl text=auto
+*.WRL text=auto

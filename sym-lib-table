@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MAX6675ISA")(type "KiCad")(uri "${KIPRJMOD}/library/specific/symbols/MAX6675ISA.kicad_sym")(options "")(descr ""))
+)
